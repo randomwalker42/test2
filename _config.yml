@@ -5,7 +5,7 @@ url: "https://stringyao.github.io"
 # THEME-SPECIFIC CONFIGURATION
 theme_settings:
   # Meta
-  title: Type on Strap
+  title: String's blog. 
   avatar: assets/img/triangle.svg
   favicon: assets/favicon.ico
   gravatar: # Email MD5 hash
